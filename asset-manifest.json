@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skillHub/static/css/main.f029a054.css",
+    "main.js": "/skillHub/static/js/main.94386ea2.js",
+    "index.html": "/skillHub/index.html",
+    "main.f029a054.css.map": "/skillHub/static/css/main.f029a054.css.map",
+    "main.94386ea2.js.map": "/skillHub/static/js/main.94386ea2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f029a054.css",
+    "static/js/main.94386ea2.js"
+  ]
+}
